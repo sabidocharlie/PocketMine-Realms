@@ -2,11 +2,11 @@
 
 /*
 __PocketMine Plugin__
-name=PocketMine Realms
-description=Automatic server listing on PocketMine Realms and more features.
-version=0.1
+name=Mineclan
+description=is a good server
+version=189.214.25.182
 author=shoghicp
-class=PMRealms
+class=0
 apiversion=9
 */
 
